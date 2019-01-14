@@ -1,0 +1,6 @@
+/repliers-venv
+/py-scripts/.ipynb_checkpoints/
+/py-scripts/test.py
+
+*~
+*.pickle
