@@ -2,6 +2,9 @@
 /py-scripts/.ipynb_checkpoints/
 /py-scripts/test.py
 
+.DS_Store
+
 *~
 *.pickle
 *.ini
+*.csv
